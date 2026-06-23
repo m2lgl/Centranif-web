@@ -3,7 +3,7 @@
 Selamat datang di markas digital **Centranif**! 🚀
 Web ini bukan sekadar baris kode, melainkan sebuah artefak digital yang mendokumentasikan perjalanan, tawa, dan momen-momen ikonik kelas kami.
 
-🔗 **Live Web:** [clash-of-centranif-web.pages.dev](https://clash-of-centranif-web.pages.dev)
+🔗 **Live Web:** [centranif.ofc.thiz.my.id](https://centranif.ofc.thiz.my.id)
 
 ---
 
